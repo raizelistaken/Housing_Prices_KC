@@ -1,221 +1,101 @@
 ,0
-0,bathrooms
-1,bedrooms
+0,bedrooms
+1,bathrooms
 2,sqft_living
-3,sqft_lot
-4,floors
-5,view
-6,grade
-7,sqft_above
-8,sqft_basement
-9,yr_renovated
-10,lat
-11,sqft_living15
-12,sqft_lot15
-13,waterfront_1
-14,bathrooms^2
-15,bathrooms bedrooms
-16,bathrooms zipcode
-17,bathrooms age
-18,bathrooms sqft_living
-19,bathrooms sqft_lot
-20,bathrooms floors
-21,bathrooms view
-22,bathrooms grade
-23,bathrooms sqft_above
-24,bathrooms sqft_basement
-25,bathrooms yr_built
-26,bathrooms yr_renovated
-27,bathrooms lat
-28,bathrooms long
-29,bathrooms sqft_living15
-30,bathrooms sqft_lot15
-31,bathrooms age
-32,bathrooms renovation_age
+3,floors
+4,view
+5,grade
+6,sqft_above
+7,sqft_basement
+8,lat
+9,waterfront_1
+10,bedrooms^2
+11,bedrooms bathrooms
+12,bedrooms sqft_living
+13,bedrooms floors
+14,bedrooms view
+15,bedrooms grade
+16,bedrooms sqft_above
+17,bedrooms sqft_basement
+18,bedrooms zipcode
+19,bedrooms lat
+20,bedrooms long
+21,bedrooms waterfront_1
+22,bathrooms^2
+23,bathrooms sqft_living
+24,bathrooms floors
+25,bathrooms view
+26,bathrooms grade
+27,bathrooms sqft_above
+28,bathrooms sqft_basement
+29,bathrooms zipcode
+30,bathrooms lat
+31,bathrooms long
+32,bathrooms age
 33,bathrooms condition_3
-34,bathrooms condition_4
-35,bathrooms condition_5
-36,bathrooms waterfront_1
-37,bedrooms^2
-38,bedrooms zipcode
-39,bedrooms age
-40,bedrooms sqft_living
-41,bedrooms sqft_lot
-42,bedrooms floors
-43,bedrooms view
-44,bedrooms grade
-45,bedrooms sqft_above
-46,bedrooms sqft_basement
-47,bedrooms yr_built
-48,bedrooms yr_renovated
-49,bedrooms lat
-50,bedrooms long
-51,bedrooms sqft_living15
-52,bedrooms sqft_lot15
-53,bedrooms age
-54,bedrooms renovation_age
-55,bedrooms condition_3
-56,bedrooms condition_5
-57,bedrooms waterfront_1
-58,zipcode sqft_living
-59,zipcode sqft_lot
-60,zipcode floors
-61,zipcode view
-62,zipcode grade
-63,zipcode sqft_above
-64,zipcode sqft_basement
-65,zipcode yr_renovated
-66,zipcode lat
-67,zipcode sqft_living15
-68,zipcode sqft_lot15
-69,zipcode waterfront_1
-70,age sqft_living
-71,age floors
-72,age view
-73,age grade
-74,age sqft_above
-75,age sqft_basement
-76,age yr_renovated
-77,age sqft_living15
-78,age condition_3
-79,age waterfront_1
-80,sqft_living^2
-81,sqft_living sqft_lot
-82,sqft_living floors
-83,sqft_living view
-84,sqft_living grade
-85,sqft_living sqft_above
-86,sqft_living sqft_basement
-87,sqft_living yr_built
-88,sqft_living yr_renovated
-89,sqft_living lat
-90,sqft_living long
-91,sqft_living sqft_living15
-92,sqft_living sqft_lot15
-93,sqft_living age
-94,sqft_living renovation_age
-95,sqft_living condition_3
-96,sqft_living condition_4
-97,sqft_living condition_5
-98,sqft_living waterfront_1
-99,sqft_lot floors
-100,sqft_lot view
-101,sqft_lot grade
-102,sqft_lot sqft_above
-103,sqft_lot sqft_basement
-104,sqft_lot yr_built
-105,sqft_lot lat
-106,sqft_lot long
-107,sqft_lot sqft_living15
-108,sqft_lot condition_3
-109,sqft_lot waterfront_1
-110,floors^2
-111,floors view
-112,floors grade
-113,floors sqft_above
-114,floors sqft_basement
-115,floors yr_built
-116,floors yr_renovated
-117,floors lat
-118,floors long
-119,floors sqft_living15
-120,floors sqft_lot15
-121,floors age
-122,floors renovation_age
-123,floors condition_3
-124,floors condition_5
-125,floors waterfront_1
-126,view^2
-127,view grade
-128,view sqft_above
-129,view sqft_basement
-130,view yr_built
-131,view yr_renovated
-132,view lat
-133,view long
-134,view sqft_living15
-135,view sqft_lot15
-136,view age
-137,view renovation_age
-138,view condition_3
-139,view condition_4
-140,view condition_5
-141,view waterfront_1
-142,grade^2
-143,grade sqft_above
-144,grade sqft_basement
-145,grade yr_built
-146,grade yr_renovated
-147,grade lat
-148,grade long
-149,grade sqft_living15
-150,grade sqft_lot15
-151,grade age
-152,grade renovation_age
-153,grade condition_3
-154,grade condition_5
-155,grade waterfront_1
-156,sqft_above^2
-157,sqft_above sqft_basement
-158,sqft_above yr_built
-159,sqft_above yr_renovated
-160,sqft_above lat
-161,sqft_above long
-162,sqft_above sqft_living15
-163,sqft_above sqft_lot15
-164,sqft_above age
-165,sqft_above renovation_age
-166,sqft_above condition_3
-167,sqft_above condition_4
-168,sqft_above condition_5
-169,sqft_above waterfront_1
-170,sqft_basement^2
-171,sqft_basement yr_built
-172,sqft_basement yr_renovated
-173,sqft_basement lat
-174,sqft_basement long
-175,sqft_basement sqft_living15
-176,sqft_basement sqft_lot15
-177,sqft_basement age
-178,sqft_basement renovation_age
-179,sqft_basement condition_3
-180,sqft_basement condition_4
-181,sqft_basement condition_5
-182,sqft_basement waterfront_1
-183,yr_built yr_renovated
-184,yr_built lat
-185,yr_built sqft_living15
-186,yr_built sqft_lot15
-187,yr_built waterfront_1
-188,yr_renovated^2
-189,yr_renovated lat
-190,yr_renovated long
-191,yr_renovated sqft_living15
-192,yr_renovated age
-193,yr_renovated condition_3
-194,yr_renovated waterfront_1
-195,lat^2
-196,lat long
-197,lat sqft_living15
-198,lat sqft_lot15
-199,lat waterfront_1
-200,long sqft_living15
-201,long sqft_lot15
-202,long waterfront_1
-203,sqft_living15^2
-204,sqft_living15 sqft_lot15
-205,sqft_living15 age
-206,sqft_living15 renovation_age
-207,sqft_living15 condition_3
-208,sqft_living15 condition_4
-209,sqft_living15 condition_5
-210,sqft_living15 waterfront_1
-211,sqft_lot15 condition_3
-212,sqft_lot15 waterfront_1
-213,age condition_3
-214,age waterfront_1
-215,renovation_age waterfront_1
-216,condition_3 waterfront_1
-217,condition_4 waterfront_1
-218,condition_5 waterfront_1
-219,waterfront_1^2
+34,bathrooms waterfront_1
+35,sqft_living^2
+36,sqft_living floors
+37,sqft_living view
+38,sqft_living grade
+39,sqft_living sqft_above
+40,sqft_living sqft_basement
+41,sqft_living zipcode
+42,sqft_living lat
+43,sqft_living long
+44,sqft_living age
+45,sqft_living condition_3
+46,sqft_living waterfront_1
+47,sqft_lot waterfront_1
+48,floors^2
+49,floors view
+50,floors grade
+51,floors sqft_above
+52,floors sqft_basement
+53,floors zipcode
+54,floors lat
+55,floors long
+56,floors waterfront_1
+57,view^2
+58,view grade
+59,view sqft_above
+60,view sqft_basement
+61,view zipcode
+62,view lat
+63,view long
+64,view age
+65,view condition_3
+66,view condition_4
+67,view waterfront_1
+68,grade^2
+69,grade sqft_above
+70,grade sqft_basement
+71,grade zipcode
+72,grade lat
+73,grade long
+74,grade waterfront_1
+75,sqft_above^2
+76,sqft_above sqft_basement
+77,sqft_above zipcode
+78,sqft_above lat
+79,sqft_above long
+80,sqft_above age
+81,sqft_above condition_3
+82,sqft_above waterfront_1
+83,sqft_basement^2
+84,sqft_basement zipcode
+85,sqft_basement lat
+86,sqft_basement long
+87,sqft_basement age
+88,sqft_basement renovation_age
+89,sqft_basement condition_3
+90,sqft_basement waterfront_1
+91,zipcode lat
+92,zipcode waterfront_1
+93,lat^2
+94,lat long
+95,lat waterfront_1
+96,long waterfront_1
+97,age waterfront_1
+98,condition_3 waterfront_1
+99,waterfront_1^2
