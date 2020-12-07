@@ -37,7 +37,7 @@ The scatter plots were used to determine if their were correlations between the 
 Here are boxplots representing the price and outliers for houses with different numbers of bathrooms. Housing prices increases as number of bathrooms increases. 
 ![bathrooms](images/bathrooms_box.png)
 
-This bar graph symbolizes the median housing price per zipcode. 
+This bar graph symbolizes the median housing price per zipcode.  
 ![zipcodes](images/zipcodes.png)
 
 # Summary
