@@ -27,9 +27,20 @@ The following information was given in order to create the best model for predic
 * **sqft_living15** - The square footage of interior housing living space for the nearest 15 neighbors
 * **sqft_lot15** - The square footage of the land lots of the nearest 15 neighbors
 
+# Data
 
 ![boxplots](images/boxplots.png)
+The boxplots were used to reference outliers visually.
+
+![scatter](images/scattter_plots.png)
+The scatter plots were used to determine if their were correlations between the columns listed above and the price. 
 
 ![bathrooms](images/bathrooms_box.png)
+Here are boxplots representing the price and outliers for houses with different numbers of bathrooms. Housing prices increases as number of bathrooms increases. 
 
 ![zipcodes](images/zipcodes.png)
+This bar graph symbolizes the median housing price per zipcode. 
+
+# Summary
+
+From my models, I found that zipcodes had a large influence on housing prices. My recommendation for real estate agents is to pay attention to the location of the house.
