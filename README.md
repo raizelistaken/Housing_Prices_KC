@@ -1,4 +1,4 @@
-#Kings County Housing Prices
+# Kings County Housing Prices
 
 ![seattle](images/seatle.PNG)
 
