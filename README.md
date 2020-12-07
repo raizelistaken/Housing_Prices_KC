@@ -54,4 +54,4 @@ The best model Root Mean Squared Error from the training set was $145,618.88 and
 
 # Summary
 
-From my models, I found that zipcodes had a large influence on housing prices. My recommendation for real estate agents is to pay attention to the location of the house.
+My model with zipcodes did the best. My interpretation is that zipcodes had a large influence on housing prices. I expected conditions and views to have more weight than they actually seemed to carry. My recommendation for real estate agents is to pay attention to the location of the house.
