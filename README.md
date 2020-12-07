@@ -40,6 +40,13 @@ Here are boxplots representing the price and outliers for houses with different 
 This bar graph symbolizes the median housing price per zipcode.  
 ![zipcodes](images/zipcodes.png)
 
+# Model
+
+This is an example of an ols model. 
+![ols](images/ols.PNG)
+
+The best model RMSE from the training set was $145,618.88 and the RMSE from the test set $155,035.15. 
+
 # Summary
 
 From my models, I found that zipcodes had a large influence on housing prices. My recommendation for real estate agents is to pay attention to the location of the house.
