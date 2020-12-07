@@ -31,14 +31,18 @@ The following information was given in order to create the best model for predic
 The boxplots were used to reference outliers visually.
 ![boxplots](images/boxplots.png)
 
-The scatter plots were used to determine if their were correlations between the columns listed above and the price. 
+
+The scatter plots were used to determine if there are correlations between the columns listed above and the price. 
 ![scatter](images/scatter_plots.png)
+
 
 Here are boxplots representing the price and outliers for houses with different numbers of bathrooms. Housing prices increases as number of bathrooms increases. 
 ![bathrooms](images/bathrooms_box.png)
 
+
 This bar graph symbolizes the median housing price per zipcode.  
 ![zipcodes](images/zipcodes.png)
+
 
 # Model
 
