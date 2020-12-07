@@ -1,4 +1,4 @@
-#Kings County Housing Prices
+#King's County Housing Prices
 
 ![seattle](images/seatle.PNG)
 
@@ -28,11 +28,10 @@ The following information was given in order to create the best model for predic
 * **sqft_lot15** - The square footage of the land lots of the nearest 15 neighbors
 
 # Data
-
 ![boxplots](images/boxplots.png)
 The boxplots were used to reference outliers visually.
 
-![scatter](images/scattter_plots.png)
+![scatter](images/scatter_plots.png)
 The scatter plots were used to determine if their were correlations between the columns listed above and the price. 
 
 ![bathrooms](images/bathrooms_box.png)
