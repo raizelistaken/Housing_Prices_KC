@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 #King's County Housing Prices
-=======
-# Kings County Housing Prices
->>>>>>> ef337f617da4f1f0840898e633a2dad06f7f1e65
 
 ![seattle](images/seatle.PNG)
 
