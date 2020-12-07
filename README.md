@@ -50,7 +50,7 @@ This bar graph symbolizes the median housing price per zipcode.
 This is an example of an ols model. 
 ![ols](images/ols.PNG)
 
-The best model Root Mean Squared Error from the training set was $145,618.88 and the RMSE from the test set $155,035.15. SelectKBest was used to eliminate ploynomial features which didn't aid the models ability to predict housing prices, shown by a lower RMSE value.  
+My best model Root Mean Squared Error from the data in the training set was $145,618.88 and the RMSE from the test set $155,035.15. SelectKBest was used to eliminate ploynomial features which didn't aid the models ability to predict housing prices, shown by a lower RMSE value.  
 
 # Summary
 
