@@ -32,8 +32,9 @@ The boxplots were used to reference outliers visually.
 ![boxplots](images/boxplots.png)
 
 
-The scatter plots were used to determine if there are correlations between the columns listed above and the price. 
+The scatter plots were used to determine if there are correlations between the columns listed above and the price. Some scatter plots display categorical data which were broken down into box plots during the modeling process. 
 ![scatter](images/scatter_plots.png)
+The next image is an example of a categorical box plot created for bathrooms.
 
 
 Here are boxplots representing the price and outliers for houses with different numbers of bathrooms. Housing prices increases as number of bathrooms increases. 
@@ -49,7 +50,7 @@ This bar graph symbolizes the median housing price per zipcode.
 This is an example of an ols model. 
 ![ols](images/ols.PNG)
 
-The best model RMSE from the training set was $145,618.88 and the RMSE from the test set $155,035.15. 
+The best model Root Mean Squared Error from the training set was $145,618.88 and the RMSE from the test set $155,035.15. SelectKBest was used to eliminate ploynomial features which didn't aid the models ability to lower the RMSE value.  
 
 # Summary
 
